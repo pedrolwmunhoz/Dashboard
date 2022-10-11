@@ -510,7 +510,7 @@ export const links = [
         icon: <BsKanban />,
       },
       {
-        name: 'text editor',
+        name: 'text-editor',
         icon: <FiEdit />,
       },
       {
