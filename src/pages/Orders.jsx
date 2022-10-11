@@ -1,5 +1,5 @@
 import React from 'react'
-import { GridComponent, ColumsDirective, ColumnDirective,
+import { GridComponent, ColumnDirective,
   Resize, Sort, ContextMenu, Filter, Page, ExcelExport,
   PdfExport, Edit, Inject} from '@syncfusion/ej2-react-grids'
 
