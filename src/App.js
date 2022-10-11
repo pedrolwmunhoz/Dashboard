@@ -63,7 +63,7 @@ function App (){
 
                                 {/* Apps */}
                                 <Route path='/kanban' element={<Kanban/>}></Route>
-                                <Route path='/editor' element={<Editor/>}></Route>
+                                <Route path='/text-editor' element={<Editor/>}></Route>
                                 <Route path='/calendar' element={<Calendar/>}></Route>
                                 <Route path='/color-picker' element={<ColorPicker/>}></Route>
 
